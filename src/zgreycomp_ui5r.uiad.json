@@ -1,0 +1,35 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "Folding Entry",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Folding Entry"
+  },
+  "ui5AppDetails": {
+    "appId": "zproductionorder"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_9DF5518F0760A65D2A7A1E38B7E2BE411069532C_TM",
+    "semanticObject": "ZGRIEGE",
+    "action": "DISPLAY",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_9DF5518F0760A65D2A7A1E38B7E2BE411069532C_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Folding Entry",
+        "subtitle": "PP"
+      }
+    }
+  ]
+}
